@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.CSharp.Homework.ConsoleApp.Cars", "SEDC.CSharp.Homework.ConsoleApp.Cars\SEDC.CSharp.Homework.ConsoleApp.Cars.csproj", "{3FBBCBD6-38D8-4958-87D1-0A19DA194190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Classes\Entities.csproj", "{0214A1B1-5544-4EC0-9701-9CE0199F9B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBBCBD6-38D8-4958-87D1-0A19DA194190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBBCBD6-38D8-4958-87D1-0A19DA194190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBBCBD6-38D8-4958-87D1-0A19DA194190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBBCBD6-38D8-4958-87D1-0A19DA194190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0214A1B1-5544-4EC0-9701-9CE0199F9B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0214A1B1-5544-4EC0-9701-9CE0199F9B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0214A1B1-5544-4EC0-9701-9CE0199F9B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0214A1B1-5544-4EC0-9701-9CE0199F9B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F80D7E-FDB8-49AB-86C5-0C77F3A7A36D}
+	EndGlobalSection
+EndGlobal

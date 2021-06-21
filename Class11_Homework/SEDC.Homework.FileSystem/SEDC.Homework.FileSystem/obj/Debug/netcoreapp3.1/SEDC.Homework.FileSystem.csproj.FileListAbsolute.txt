@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.exe
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.deps.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\bin\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 10 FileSystem\SEDC.Homework.FileSystem\SEDC.Homework.FileSystem\obj\Debug\netcoreapp3.1\SEDC.Homework.FileSystem.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 03 CarsApp\SEDC.CSharp.Homework.ConsoleApp.Cars\Classes\obj\Debug\netcoreapp3.1\Entities.pdb

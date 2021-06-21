@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.exe
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.deps.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\SEDC.Class12Homework.API.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.csproj.CopyComplete
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 12 API\SEDC.Class12Homework.API\SEDC.Class12Homework.API\obj\Debug\netcoreapp3.1\SEDC.Class12Homework.API.csprojAssemblyReference.cache

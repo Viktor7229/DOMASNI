@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.PetShop/1.0.0": {
+        "dependencies": {
+          "SEDC.PetShop.Models": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.PetShop.dll": {}
+        }
+      },
+      "SEDC.PetShop.Models/1.0.0": {
+        "runtime": {
+          "SEDC.PetShop.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.PetShop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.PetShop.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\bin\Debug\netcoreapp3.1\SEDC.PetShop.Models.deps.json
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\bin\Debug\netcoreapp3.1\SEDC.PetShop.Models.dll
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\bin\Debug\netcoreapp3.1\SEDC.PetShop.Models.pdb
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.AssemblyInfo.cs
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.dll
+C:\Users\angel\source\repos\SEDC.PetShop\SEDC.PetShop.Models\obj\Debug\netcoreapp3.1\SEDC.PetShop.Models.pdb

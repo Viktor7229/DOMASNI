@@ -1,0 +1,13 @@
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.exe
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.deps.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.runtimeconfig.dev.json
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\bin\Debug\netcoreapp3.1\AdvLINQ.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.dll
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.pdb
+C:\Users\angel\OneDrive\Desktop\Seavous\4. C#\2. C# Advanced\Homework\Class 08 AdvLINQ\AdvLINQ\AdvLINQ\obj\Debug\netcoreapp3.1\AdvLINQ.genruntimeconfig.cache
